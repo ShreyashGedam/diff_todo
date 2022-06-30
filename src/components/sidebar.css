@@ -1,0 +1,16 @@
+.sidebarmain
+{
+    border: 1px solid black;
+    width: 20%;
+    
+}
+
+.sidebarmain > div
+{
+    margin: auto;
+    border: 2px solid ;
+    width: 50%;
+    text-align: center;
+    margin-bottom: 5px;
+    /* height: 20px; */
+}
